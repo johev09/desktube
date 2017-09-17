@@ -1,0 +1,6 @@
+@import "{{ site.theme }}";
+
+a.button {
+  width: auto;
+  margin-bottom: 14px;
+}
