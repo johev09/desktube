@@ -8,6 +8,16 @@ a.button {
   margin-bottom: 14px;
 }
 
+#download-zip span,
+#download-tar-gz span {
+  padding: 5px;
+  padding-left: 50px;
+}
+
 #download-zip span {
-  background: transparent url(../images/chrome.png) 12px 50% no-repeat;
+  background: transparent url(../images/chrome.png) 12px no-repeat;
+}
+
+#download-tar-gz span {
+  background: transparent url(../images/windows.png) 12px no-repeat;
 }
