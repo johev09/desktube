@@ -2,6 +2,6 @@ theme: jekyll-theme-tactile
 title: Desktube
 description: Pops-out web video in Desktop
 github:
-  zip_url: https://example.com/foo.zip
+  zip_url: https://chrome.google.com/webstore/detail/desktube-chrome-extension/biejfabbjpibepifkhloolobibjjddia
   tar_url: https://example.com/foo.tar.gz
 show_downloads: true
