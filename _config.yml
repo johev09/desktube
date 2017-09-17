@@ -1,4 +1,5 @@
 theme: jekyll-theme-tactile
 title: Desktube
 description: Pops-out web video in Desktop
+site.github.zip_url: 'ok'
 show_downloads: true
