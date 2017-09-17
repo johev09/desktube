@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Desktube
 
 You can use the [editor on GitHub](https://github.com/johev09/desktube/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
