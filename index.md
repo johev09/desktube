@@ -1,37 +1,43 @@
-## Desktube
+[//]: #Desktube
+# What's this?
+This app lets you pop-out [Youtube](https://www.youtube.com) videos to your desktop, like this ▼
 
-You can use the [editor on GitHub](https://github.com/johev09/desktube/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![screenshot-2](https://johev09.github.io/desktube/assets/images/screenshot-2.png "video playing")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# How to Install?
 
-### Markdown
+- Install [Desktop App][app-download-link].
+- Install [Desktube Chrome Extension][ext-download-link].
+- That's All Folks! 😃
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Why should I use it?
+Imagine this...
+You are watching an Youtube video, but want to do something else too while watching the video. If you switch tab or window, you will miss the video.
 
-```markdown
-Syntax highlighted code block
+> Worry no more, this is EXACTLY what you need!
 
-# Header 1
-## Header 2
-### Header 3
+Click on [Desktube Chrome Extension][ext-download-link]. [Desktube app][app-download-link] will start playing your video just where you left
 
-- Bulleted
-- List
+If you download now, you will get everything in<br>
+~~₹ 1000~~<br>
+~~₹ 500~~ <br>
+⭐⭐⭐ ₹ 0 \* ⭐⭐⭐
+>SO HURRY! DOWNLOAD NOW!
 
-1. Numbered
-2. List
+\* No Terms & Conditions apply.
 
-**Bold** and _Italic_ and `Code` text
+# So What?
+- You can use global shortcuts to control Desktube anytime from anywhere.
+    - Play/Pause the video - `Ctrl + Alt + Space`
+    - Toggle Video Fullscreen - `Ctrl + Alt + F`
+    - Toggle Window Maximize - `Ctrl + Alt + M`
+- You can right-click on Youtube video/link to "Play on Desktube"
+- You can use Desktube to play your favourite playlist and use shortcuts to play or pause anytime from anywhere.
+<br>
+<br>
+<br>
+<center>Made with 🤘 by <a href="https://facebook.com/johev09">Jhohev</a></center>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johev09/desktube/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[app-download-link]: https://github.com/johev09/desktube/releases/download/v1.0.0/desktube-setup-1.0.0.exe
+[ext-download-link]: https://chrome.google.com/webstore/detail/desktube-chrome-extension/biejfabbjpibepifkhloolobibjjddia
