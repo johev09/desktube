@@ -1,22 +1,35 @@
 [//]: #Desktube
 # What's this?
-This app lets you pop-out [Youtube](https://www.youtube.com) videos to your desktop, like this ▼
+---------------
+
+![whats-this](https://media.giphy.com/media/kaq6GnxDlJaBq/giphy.gif)
+
+## This app lets you pop-out [Youtube](https://www.youtube.com) videos to your desktop, like this ▼
 
 ![screenshot-2](https://johev09.github.io/desktube/assets/images/screenshot-2.png "video playing")
 
+-----------------
 # How to Install?
+-----------------
 
-- Install [Desktop App][app-download-link].
-- Install [Desktube Chrome Extension][ext-download-link].
-- That's All Folks! 😃
+![install](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
+1. Install [Desktop App][app-download-link].
+2. Install [Desktube Chrome Extension][ext-download-link].
+3. That's All Folks! 😃
+
+-----------------------
 # Why should I use it?
+-----------------------
+
+![but-why](https://media.giphy.com/media/1M9fmo1WAFVK0/giphy.gif)
+
 Imagine this...
-You are watching an Youtube video, but want to do something else too while watching the video. If you switch tab or window, you will miss the video.
+You are watching an Youtube video and want to do something else too while watching the video, but if you switch tab or window, you will miss the video.
 
 > Worry no more, this is EXACTLY what you need!
 
-Click on [Desktube Chrome Extension][ext-download-link]. [Desktube app][app-download-link] will start playing your video just where you left
+Click on [Desktube Chrome Extension][ext-download-link]. Your video will start playing in [Desktube app][app-download-link] from just where you were watching.
 
 If you download now, you will get everything in<br>
 ~~₹ 1000~~<br>
@@ -24,9 +37,17 @@ If you download now, you will get everything in<br>
 ⭐⭐⭐ ₹ 0 \* ⭐⭐⭐
 >SO HURRY! DOWNLOAD NOW!
 
-\* No Terms & Conditions apply.
 
+![hurry](https://media.giphy.com/media/3o6Zth7pE7aPKqAEEM/giphy.gif)
+
+<small><em>* No Terms & Conditions apply.</em></small>
+
+-----------
 # So What?
+-----------
+
+![so-what](https://media.giphy.com/media/xT77Y36ijyuwn58bja/giphy.gif)
+
 - You can use global shortcuts to control Desktube anytime from anywhere.
     - Play/Pause the video - `Ctrl + Alt + Space`
     - Toggle Video Fullscreen - `Ctrl + Alt + F`
