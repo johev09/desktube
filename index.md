@@ -1,16 +1,21 @@
 [//]: #Desktube
 # What's this?
+---------------
+
 This app lets you pop-out [Youtube](https://www.youtube.com) videos to your desktop, like this ▼
 
 ![screenshot-2](https://johev09.github.io/desktube/assets/images/screenshot-2.png "video playing")
 
-# How to Install?
+![scene-1](https://johev09.github.io/desktube/assets/gif/scene-1.gif)
 
-- Install [Desktop App][app-download-link].
-- Install [Desktube Chrome Extension][ext-download-link].
-- That's All Folks! 😃
+# How to Install?
+-----------------
+1. Install [Desktop App][app-download-link].
+2. Install [Desktube Chrome Extension][ext-download-link].
+3. That's All Folks! 😃
 
 # Why should I use it?
+----------------------
 Imagine this...
 You are watching an Youtube video, but want to do something else too while watching the video. If you switch tab or window, you will miss the video.
 
