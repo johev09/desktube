@@ -4,9 +4,7 @@
 
 This app lets you pop-out [Youtube](https://www.youtube.com) videos to your desktop, like this ▼
 
-![screenshot-2](https://johev09.github.io/desktube/assets/images/screenshot-2.png "video playing")
-
-![scene-1](https://johev09.github.io/desktube/assets/gif/scene-1.gif)
+![scene-1](https://johev09.github.io/desktube/assets/gifs/scene-2.gif)
 
 # How to Install?
 -----------------
