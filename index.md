@@ -4,9 +4,9 @@
 
 ![whats-this](https://media.giphy.com/media/kaq6GnxDlJaBq/giphy.gif)
 
-## This app lets you pop-out [Youtube](https://www.youtube.com) videos to your desktop, like this ▼
+## This app lets you pop-out [Youtube](https://www.youtube.com) videos to your desktop ▼
 
-<video width="800" height="480" autoplay>
+<video width="800" height="480" autoplay loop>
     <source src="assets/videos/scene-1.mp4" type="video/mp4"/>
     Your browser does not support the video tag.
 </video>
