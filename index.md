@@ -6,7 +6,7 @@
 
 ## This app lets you pop-out [Youtube](https://www.youtube.com) videos to your desktop, like this ▼
 
-<video width="800" height="480">
+<video width="800" height="480" autoplay>
     <source src="assets/videos/scene-1.mp4" type="video/mp4"/>
     Your browser does not support the video tag.
 </video>
