@@ -4,14 +4,11 @@
 
 ![whats-this](https://media.giphy.com/media/kaq6GnxDlJaBq/giphy.gif)
 
-### This app lets you pop-out [Youtube](https://www.youtube.com) videos to your desktop ▼
+This app lets you pop-out [Youtube](https://www.youtube.com) videos to your desktop, with just a click.
+Video will stay at top and you can do anything else on your desktop or laptop while watching the video.
+Seems like a good plan?
 
-<video width="800" height="480" autoplay loop>
-    <source src="assets/videos/scene-1.mp4" type="video/mp4"/>
-    Your browser does not support the video tag.
-</video>
 
------------------
 # How to Install?
 -----------------
 
@@ -21,7 +18,7 @@
 2. Install [Desktube Chrome Extension][ext-download-link].
 3. That's All Folks! 😃
 
------------------------
+
 # Why should I use it?
 -----------------------
 
@@ -45,7 +42,7 @@ If you download now, you will get everything in<br>
 
 <small><em>* No Terms & Conditions apply.</em></small>
 
------------
+
 # So What?
 -----------
 
